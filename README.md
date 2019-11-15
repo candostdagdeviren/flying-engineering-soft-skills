@@ -1,4 +1,5 @@
-# flying-engineering-soft-skills
+# Engineering Soft Skills 
+
 Just to keep track of content related to soft skills of an engineer
 
 ## Posts
