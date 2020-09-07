@@ -4,6 +4,7 @@ Just to keep track of content related to soft skills of an engineer
 
 ## Posts
 
+- [How to achieve career growth: opportunities, skills & sponsors](https://yenkel.dev/posts/how-to-achieve-career-growth-opportunities-skills-sponsors) - 07.09.2020
 - [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - 07.09.2020
 - [Actively listening](https://larahogan.me/blog/actively-listening/) - 15.11.2019
 - [How to ask good questions](https://jvns.ca/blog/good-questions/) - 03.02.2019
