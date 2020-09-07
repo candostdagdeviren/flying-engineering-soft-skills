@@ -1,9 +1,10 @@
-# Engineering Soft Skills 
+# Engineering Soft Skills
 
 Just to keep track of content related to soft skills of an engineer
 
 ## Posts
 
+- [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - 07.09.2020
 - [Actively listening](https://larahogan.me/blog/actively-listening/) - 15.11.2019
 - [How to ask good questions](https://jvns.ca/blog/good-questions/) - 03.02.2019
 - [How to teach yourself hard things](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice) - 03.02.2019
